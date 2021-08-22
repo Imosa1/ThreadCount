@@ -1,8 +1,7 @@
 {
 	"Name": "PlaidNumber",
 	"Author": "Imosa",
-	"Version": "0.0.4",
+	"Version": "0.0.5",
 	"Category": "Cosmetic",
-	"Description": "Replaces shirt textures, adding labels",
-	"Archives": "DSDB"
+	"Description": "Replaces shirt textures, adding labels"
 }
